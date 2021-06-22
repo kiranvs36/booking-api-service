@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      database: bookingdb
+      host: localhost
+      port: 27017
